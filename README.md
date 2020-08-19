@@ -1,6 +1,6 @@
 # CUDA programming
 
-I have writtedn several CUDA kernels, capabale of performing the following tasks:
+I have written several CUDA kernels, capabale of performing the following tasks on GPU:
 
 1- Vector Addition
 
