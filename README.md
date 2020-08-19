@@ -1,5 +1,4 @@
-# CUDAprogramming
-
+# CUDA programming
 1- Vector Addition
 2- Matrix Multiplication
 3- Tiles Matrix Multiplication
