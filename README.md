@@ -1,21 +1,8 @@
 # CUDA programming
 
-I have written several CUDA kernels, capabale of performing the following tasks on GPU:
-
-1- Vector Addition
-
-2- Matrix Multiplication
-
-3- Tiles Matrix Multiplication
-
-4- 3D Convolution
-
-5- Reduction List
-
-6- Parallel Prefix-sum
-
-7- Histogram
-
-8- Sparse Matrix Multiplication
-
-You can find the codes in the uploaded files.
+I worked on multiple CUDA kernels capable of executing different
+algorithms on GPU. The written kernels include: 1- vector addition,
+2- matrix multiplication, 3- tiled matrix multiplication, using
+shared memory, 4- 3D convolution, using constant memory for the mask,
+5- reduction list, 6- parallel prefix-sim, 7- histogram, employing
+atomic operation, and 8- sparse matrix multiplication.
